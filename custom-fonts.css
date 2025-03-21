@@ -1,0 +1,15 @@
+@font-face {
+    src: url('https://win467.github.io/fonts/rm_typerighter_medium.woff') format('woff'),
+         url('https://win467.github.io/fonts/rm_typerighter_medium.woff2') format('woff2');
+    font-family: 'RM typerighter medium';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('https://win467.github.io/fonts/rm_typerighter_old.woff') format('woff'),
+         url('https://win467.github.io/fonts/rm_typerighter_old.woff2') format('woff2');
+    font-family: 'RM typerighter old';
+    font-style: normal;
+    font-weight: normal;
+}
